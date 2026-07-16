@@ -81,8 +81,7 @@ E-Nilai dikembangkan berdasarkan beberapa prinsip utama.
 | Material UI | ✅ |
 | Firebase Authentication | ✅ |
 | Firebase Realtime Database | ✅ |
-| Google Drive API | ✅ |
-| Google Sheets API | ✅ |
+| Cloud Firestore | ✅ |
 
 ---
 

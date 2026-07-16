@@ -53,10 +53,5 @@ PREMIUM:
 /devices
 /workspaces
 
-## Jangan Diubah
-- Filosofi penyimpanan di Google Drive pengguna.
-- NIS sebagai ID utama siswa.
-- UI sederhana.
-- Data tetap milik pengguna.
 
 Selalu baca PROJECT_CONTEXT.md sebelum membuat atau mengubah kode.

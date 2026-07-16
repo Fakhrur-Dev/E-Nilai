@@ -16,9 +16,7 @@ Service Layer
    │
 Firebase Auth ─ Firebase RTDB
    │
-Google Drive API
-   │
-Google Sheets
+Cloud Firestore
 ```
 
 ## Layer
@@ -37,8 +35,7 @@ Google Sheets
 
 ### Data
 - Firebase
-- Google Drive
-- Google Sheets
+- Firestore
 
 ## Folder
 
@@ -61,19 +58,17 @@ src/
 ```
 
 ## Authentication Flow
-1. Login Google
-2. Firebase Authentication
+
+1. Firebase Authentication
 3. Cek user
-4. Cek lisensi
+4. Cek masa lisensi
 5. Dashboard
 
-## Workspace Flow
-Guru → Buat Workspace → Folder Google Drive → Spreadsheet otomatis → Siap digunakan.
 
 ## Penyimpanan
-- Firebase = metadata
-- Google Drive = file
-- Google Sheets = master & nilai
+- Firebase
+- Firestore
+- Memori Internal device
 
 ## Prinsip
 - Mobile First
